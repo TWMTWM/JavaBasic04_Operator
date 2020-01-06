@@ -1,7 +1,5 @@
 package cn.gtmap.logic_operator;
 
-import org.omg.Messaging.SyncScopeHelper;
-
 public class Test05 {
 	/**
 	 * 5¡¢Á·Ï°£ºÂß¼­²Ù×÷·û
